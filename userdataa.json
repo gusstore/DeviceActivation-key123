@@ -1,14 +1,1 @@
-[
-    {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "8a8e4efe0a55246f",
-        "key": "keyvip0838",
-        "expirydate": "30-07-2026",
-        "Allowoffline": false
-    }, 
-]
+
